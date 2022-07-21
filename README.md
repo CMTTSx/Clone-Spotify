@@ -14,4 +14,4 @@ Clone de Spotify para estudar Html, CSS e estudar desenvolvimento de interface g
 2- CSS
 3- BOOTSTRAP
 
-![Uploading Clone Spotify.png…]
+![Clone Spotify](https://user-images.githubusercontent.com/85304089/180257234-6e1e8993-7952-4caf-99ef-7ce717b364be.png)
