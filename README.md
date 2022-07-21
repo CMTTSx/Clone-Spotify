@@ -14,4 +14,4 @@ Clone de Spotify para estudar Html, CSS e estudar desenvolvimento de interface g
 2- CSS
 3- BOOTSTRAP
 
-![Uploading Clone Spotify.png…]()
+![Uploading Clone Spotify.png…]
